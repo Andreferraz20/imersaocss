@@ -11,15 +11,16 @@
 }
 
 body {
-    background: #282a36;
+    background:url("../imagens/imagem2.jpg");
     font-family: 'Source Sans Pro', sans-serif; 
     color: white;
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
 }
 
 header {
     padding: 32px;
-    border-bottom: 1px solid #333;
-    background: rgba(0, 0, 0, 0.1);
 }    
 
 .links {
