@@ -13,8 +13,8 @@
 body {
     background:url("../imagens/imagem2.jpg");
     font-family: 'Source Sans Pro', sans-serif; 
-    color: white;
-    background-size: auto 100vh;
+    color: black;
+    background-size: auto 120vh;
     font-family: Arial;
     height: 100vh;
 }
